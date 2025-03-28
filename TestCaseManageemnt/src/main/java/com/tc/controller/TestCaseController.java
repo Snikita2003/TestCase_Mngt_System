@@ -22,7 +22,7 @@ import com.tc.services.TestCaseServiceImpl;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 
-// This RestController is accept all incoming http request from // client.
+// This RestController is accept all incoming http request from frontend.
 
 @RestController
 @RequestMapping("/api/testcases")
